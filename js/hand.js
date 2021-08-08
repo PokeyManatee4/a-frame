@@ -3,8 +3,8 @@
 // Licensed MIT, see https://github.com/aframevr/aframe/blob/master/LICENSE
 
 var MODEL_URLS = {
-  left: "hands/leftHand.glb",
-  right: "hands/rightHand.glb"
+  left: "hands/leftHand.obj",
+  right: "hands/rightHand.obj"
 };
 
 // Poses.
